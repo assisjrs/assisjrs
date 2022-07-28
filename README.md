@@ -1,37 +1,32 @@
+#WORK IN PROGRESS
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/assisjrs/assisjrs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Bem vindo ao meu perfil no github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Destaques
+![activity](https://activity-graph.herokuapp.com/graph?username=assisjrs&theme=minimal)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assisjrs&theme=vue)
 
-```markdown
-Syntax highlighted code block
+![stats](https://github-readme-stats.vercel.app/api?username=assisjrs)
 
-# Header 1
-## Header 2
-### Header 3
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assisjrs)
 
-- Bulleted
-- List
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=assisjrs)
 
-1. Numbered
-2. List
+![trophy](https://github-profile-trophy.vercel.app/?username=assisjrs)
 
-**Bold** and _Italic_ and `Code` text
+### Main projects
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contacts
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-### Jekyll Themes
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/assisjrs/assisjrs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
