@@ -1,37 +1,55 @@
+#WORK IN PROGRESS
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/assisjrs/assisjrs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Bem vindo ao meu perfil no github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Destaques
+![activity](https://activity-graph.herokuapp.com/graph?username=assisjrs&theme=minimal)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assisjrs&theme=vue)
 
-```markdown
-Syntax highlighted code block
+![stats](https://github-readme-stats.vercel.app/api?username=assisjrs)
 
-# Header 1
-## Header 2
-### Header 3
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assisjrs)
 
-- Bulleted
-- List
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=assisjrs)
 
-1. Numbered
-2. List
+![trophy](https://github-profile-trophy.vercel.app/?username=assisjrs)
 
-**Bold** and _Italic_ and `Code` text
+### Main projects
 
-[Link](url) and ![Image](src)
-```
+Projeto de exemplo de um CRUD completo em java com spring boot
+[https://github.com/assisjrs/crud-basico-java](https://github.com/assisjrs/crud-basico-java)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Exemplo de um jogo criado com C#
+[https://github.com/assisjrs/pong-game](https://github.com/assisjrs/pong-game)
 
-### Jekyll Themes
+Projeto de uma annotation em java para auxiliar testes com Selenium
+https://github.com/assisjrs/selenium-test-case
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/assisjrs/assisjrs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Exemplo de um teste em Java e Selenium realizando testes em um projeto Primefaces
+https://github.com/assisjrs/springboot-cucumber-jsf-primefaces
 
-### Support or Contact
+Projeto em Selenium usado para uma talk
+https://github.com/assisjrs/selenium-exemplo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Exemplos usados na palestra sobre padrões em Selenium
+https://github.com/assisjrs/padroes-selenium-palestra2
+
+Repositório usado no Agile Testers Conference 2017
+https://github.com/assisjrs/agileTestersConference2017
+
+Exemplo da construção de um conjunto de aplicações micro services usando a stack do spring cloud com dockerização, git flow, jenkins e frontend react.
+https://github.com/assisjrs/warmup/tree/develop
+
+### Contacts
+![https://www.youtube.com/assisjrs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+![https://twitter.com/assisjrs](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+![www.linkedin.com/in/assisjrs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
