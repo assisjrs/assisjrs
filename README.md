@@ -21,10 +21,10 @@
 ### Main projects
 
 Projeto de exemplo de um CRUD completo em java com spring boot
-https://github.com/assisjrs/crud-basico-java
+[https://github.com/assisjrs/crud-basico-java](https://github.com/assisjrs/crud-basico-java)
 
 Exemplo de um jogo criado com C#
-https://github.com/assisjrs/crud-basico-java
+[https://github.com/assisjrs/pong-game](https://github.com/assisjrs/pong-game)
 
 Projeto de uma annotation em java para auxiliar testes com Selenium
 https://github.com/assisjrs/selenium-test-case
@@ -45,11 +45,11 @@ Exemplo da construção de um conjunto de aplicações micro services usando a s
 https://github.com/assisjrs/warmup/tree/develop
 
 ### Contacts
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![https://www.youtube.com/assisjrs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![https://twitter.com/assisjrs](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![www.linkedin.com/in/assisjrs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
